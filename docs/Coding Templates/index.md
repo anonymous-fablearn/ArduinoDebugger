@@ -1,7 +1,6 @@
 ---
 title: Debugging Code Templates
 nav_order: 3
-has_children: true
 ---
 # Debugging Code Templates
 {: no_toc}
